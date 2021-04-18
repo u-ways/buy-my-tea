@@ -2,3 +2,4 @@
 /secret.key
 /venv/
 /.idea/
+*.log
