@@ -25,17 +25,21 @@ IG_TARGET_USER_WEBSITE = '//*[@id="react-root"]/section/main/div/header/section/
 
 # PAGE ONE (TEA SELECTION)
 # Milk tea
-FORM_PG1_CHOICE_MILK = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div[1]/div[1]'
+FORM_PG1_CHOICE_MILK = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]'
 FORM_PG1_CHOICE_MILK_AMOUNT_1 = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[2]/div[3]'
 # Chocolate hazelnut tea
-FORM_PG1_CHOICE_HAZELNUT = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[9]/div/div/div[2]/div/div[1]/div[1]/div[1]'
+FORM_PG1_CHOICE_HAZELNUT = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[9]/div/div/div[2]/div/div[1]'
 FORM_PG1_CHOICE_HAZELNUT_AMOUNT_1 = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[2]/div[3]'
 # Mango matcha green tea
-FORM_PG1_CHOICE_MANGO = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[1]/div[1]/div[1]'
+FORM_PG1_CHOICE_MANGO = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[1]'
 FORM_PG1_CHOICE_MANGO_AMOUNT_1 = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[2]/div[3]'
 # Lychee jasmine green tea
-FORM_PG1_CHOICE_LYCHEE = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[7]/div/div/div[2]/div/div[1]/div[1]/div[1]'
+FORM_PG1_CHOICE_LYCHEE = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[7]/div/div/div[2]/div/div[1]'
 FORM_PG1_CHOICE_LYCHEE_AMOUNT_1 = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[7]/div/div/div[2]/div/div[2]/div[3]'
+# Creamy grass jelly tea
+FORM_PG1_CHOICE_CREAMY = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[11]/div/div/div[2]/div/div[1]'
+FORM_PG1_CHOICE_CREAMY_AMOUNT_1 = '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[11]/div/div/div[2]/div/div[2]/div[3]'
+
 FORM_PG1_NEXT_PG_BTN = '//*[@id="mG61Hd"]/div[2]/div/div[3]/div[1]/div/div/span'
 
 # PAGE TWO (DELIVERY DETAILS)
