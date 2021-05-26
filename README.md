@@ -1,6 +1,6 @@
 # Buy My Tea
 
-Just a small script to automate my tea purchase.
+Just a small script to automate my tea purchase using Selenium out of interest.
 
 ## Usage Example
 
